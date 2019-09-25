@@ -17,4 +17,4 @@ mybatis:
       prefix: /WEB-INF/jsp/
       suffix: .jsp
 env:
-  dev7
+  dev8
